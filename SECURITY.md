@@ -1,4 +1,4 @@
-# Security Policy
+Security Policy
 
 Due to both time and resource constrains the Highlight.js core team fully supports only the current major/minor release of the library.  Prior major releases may be supported for a short time after new major releases are issued.  Problems with minor releases are often resolved by upgrading to the most recent minor release.
 
